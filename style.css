@@ -1,0 +1,33 @@
+body {
+    font-weight: bolder;
+    background:linear-gradient(#272727d9,hsla(0, 0%, 0%, 0.825),rgb(8, 8, 8));
+    color:rgb(0, 81, 255)
+}
+
+#camara, #resultado {
+    margin: 0 auto;
+    width: 360px;
+    height: 250px;
+    border: 1px dotted grey;
+    background-size: 360px 250px;
+}
+
+#camara{
+    background-image: url(selfie.jpg);
+    
+}
+#resultado{
+    background-image: url("https://stickerly.pstatic.net/sticker_pack/M2t1aP2HACEOsaiCQmag/M09TSP/2/b50cd29f-0cef-4639-875f-9d0b9c3196e0.png");
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 20%;
+}
+
+#textbox {
+    width: 300px;
+}
+h3 span{
+    color: rgb(26, 255, 0);
+}
